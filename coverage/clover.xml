@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<coverage generated="1644243099182" clover="3.2.0">
+  <project timestamp="1644243099182" name="All files">
+    <metrics statements="68" coveredstatements="46" conditionals="57" coveredconditionals="37" methods="21" coveredmethods="9" elements="146" coveredelements="92" complexity="0" loc="68" ncloc="68" packages="2" files="8" classes="8"/>
+    <package name="src">
+      <metrics statements="57" coveredstatements="35" conditionals="57" coveredconditionals="37" methods="21" coveredmethods="9"/>
+      <file name="base.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\base.js">
+        <metrics statements="9" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+      </file>
+      <file name="categories.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\categories.js">
+        <metrics statements="12" coveredstatements="7" conditionals="37" coveredconditionals="26" methods="9" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="28" type="cond" truecount="26" falsecount="11"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+=======
+<coverage generated="1644232565985" clover="3.2.0">
+  <project timestamp="1644232565985" name="All files">
+    <metrics statements="104" coveredstatements="74" conditionals="69" coveredconditionals="48" methods="27" coveredmethods="13" elements="200" coveredelements="135" complexity="0" loc="104" ncloc="104" packages="4" files="15" classes="15"/>
+    <package name="assets">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="g-b.jpg" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\assets\g-b.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="g-h.jpg" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\assets\g-h.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="g-l.jpg" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\assets\g-l.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="g-m.png" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\assets\g-m.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src">
+      <metrics statements="78" coveredstatements="48" conditionals="65" coveredconditionals="45" methods="26" coveredmethods="12"/>
+      <file name="base.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\base.js">
+        <metrics statements="10" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+      </file>
+      <file name="categories.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\categories.js">
+        <metrics statements="12" coveredstatements="8" conditionals="37" coveredconditionals="26" methods="9" coveredmethods="5"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="84" type="cond" truecount="26" falsecount="11"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+>>>>>>> 74c28807bd3df787d900526efeaa93daf935406c
+        <line num="11" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+<<<<<<< HEAD
+        <line num="40" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+      </file>
+      <file name="gallery.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\gallery.js">
+        <metrics statements="25" coveredstatements="12" conditionals="12" coveredconditionals="4" methods="4" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="129" count="2" type="stmt"/>
+      </file>
+      <file name="login.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\login.js">
+        <metrics statements="11" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+=======
+        <line num="40" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+      </file>
+      <file name="description.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\description.js">
+        <metrics statements="11" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="87" count="2" type="stmt"/>
+      </file>
+      <file name="gallery.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\gallery.js">
+        <metrics statements="24" coveredstatements="11" conditionals="12" coveredconditionals="4" methods="4" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="20" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="84" count="4" type="stmt"/>
+        <line num="123" count="4" type="stmt"/>
+      </file>
+      <file name="login.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\login.js">
+        <metrics statements="11" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+      </file>
+      <file name="register.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\register.js">
+        <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="58" count="3" type="stmt"/>
+        <line num="103" count="3" type="stmt"/>
+>>>>>>> 74c28807bd3df787d900526efeaa93daf935406c
+      </file>
+    </package>
+    <package name="src.data">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+<<<<<<< HEAD
+      <file name="biography.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\data\biography.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+      </file>
+      <file name="horror.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\data\horror.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+      </file>
+      <file name="mystery.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\data\mystery.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+      </file>
+      <file name="romance.js" path="C:\Users\sguntaka\source\repos\BooksApp\book\src\data\romance.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+=======
+      <file name="biography.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\data\biography.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+      </file>
+      <file name="horror.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\data\horror.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+      </file>
+      <file name="mystery.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\data\mystery.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+      </file>
+      <file name="romance.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\data\romance.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.routes">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="homeStack.js" path="C:\Users\snehasaj\Documents\Project\BooksApp\book\src\routes\homeStack.js">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="12" type="cond" truecount="3" falsecount="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+>>>>>>> 74c28807bd3df787d900526efeaa93daf935406c
+      </file>
+    </package>
+  </project>
+</coverage>

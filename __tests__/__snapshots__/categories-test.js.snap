@@ -1,0 +1,346 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Category Snapshot 1`] = `
+<View
+  style={
+    Object {
+      "Height": "auto",
+    }
+  }
+>
+  <RCTScrollView
+    vertical={true}
+  >
+    <View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#e1e8ee",
+              "borderWidth": 1,
+              "margin": 15,
+              "marginBottom": 0,
+              "padding": 15,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "transparent",
+              }
+            }
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "height": 200,
+                  "paddingTop": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  Object {
+                    "testUri": "../../../assets/g-l.jpg",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    Object {
+                      "height": 200,
+                      "width": "100%",
+                    },
+                    undefined,
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#e1e8ee",
+              "borderWidth": 1,
+              "margin": 15,
+              "marginBottom": 0,
+              "padding": 15,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "transparent",
+              }
+            }
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "height": 200,
+                  "paddingTop": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  Object {
+                    "testUri": "../../../assets/g-m.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    Object {
+                      "height": 200,
+                      "width": "100%",
+                    },
+                    undefined,
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#e1e8ee",
+              "borderWidth": 1,
+              "margin": 15,
+              "marginBottom": 0,
+              "padding": 15,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "transparent",
+              }
+            }
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "height": 200,
+                  "paddingTop": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  Object {
+                    "testUri": "../../../assets/g-h.jpg",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    Object {
+                      "height": 200,
+                      "width": "100%",
+                    },
+                    undefined,
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#e1e8ee",
+              "borderWidth": 1,
+              "margin": 15,
+              "marginBottom": 0,
+              "padding": 15,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "transparent",
+              }
+            }
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "height": 200,
+                  "paddingTop": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  Object {
+                    "testUri": "../../../assets/g-b.jpg",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    Object {
+                      "height": 200,
+                      "width": "100%",
+                    },
+                    undefined,
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BaseHome renders 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "lightgrey",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fb5b5a",
+        "fontSize": 50,
+        "fontWeight": "bold",
+        "marginBottom": 40,
+      }
+    }
+  >
+    Welcome! 
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#fb5b5a",
+        "fontSize": 50,
+        "fontWeight": "bold",
+        "marginBottom": 40,
+      }
+    }
+  >
+    Books App
+  </Text>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fb5b5a",
+        "borderRadius": 25,
+        "height": 50,
+        "justifyContent": "center",
+        "marginBottom": 10,
+        "marginTop": 40,
+        "opacity": 1,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "black",
+        }
+      }
+    >
+      LOGIN
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fb5b5a",
+        "borderRadius": 25,
+        "height": 50,
+        "justifyContent": "center",
+        "marginBottom": 10,
+        "marginTop": 40,
+        "opacity": 1,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "black",
+        }
+      }
+    >
+      Register
+    </Text>
+  </View>
+</View>
+`;
